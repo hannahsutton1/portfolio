@@ -11,6 +11,8 @@
 - Implemented drill-down and drill-through functionality for county-level and storm-type analysis, improving stakeholder accessibility and situational awareness. 
 - Delivered recommendations on monetary reserves and allocation of stand-by emergency resources based on year-over-year financial and storm damage trends.
 
+Project Link: 
+
 
 <!-- PDF-EXCLUDE-START -->
 Tableau Dashboard:
@@ -28,10 +30,13 @@ Drill-down Feature:
 - Built interactive dashboards using Power BI with advanced data cleaning and regression analysis. 
 - Designed a structured analysis framework comparable to test case design, validation, and reporting on KPIs. 
 
+Project Link: 
  
 **Enterprise Data Management Plan – Third Star Financial** | Mar 2025 – Jun 2025 
 - Developed logical and conceptual data models to improve governance and data quality. 
 - Delivered roadmap supporting requirements gathering, cross-team collaboration, and documentation standards.
+
+Project Link:
 
 ### Certifications 
 - Certificate in SQL Competency – LearnSQL.com | May 2025 
