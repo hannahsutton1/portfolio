@@ -1,11 +1,11 @@
 # Hannah Sutton - Data Analyst 
 
 <!-- PDF-EXCLUDE-START -->
-[⬇️ Download this page as PDF](/downloads/readme.pdf)
+#### [⬇️ Download this page as PDF](/downloads/readme.pdf)
 <!-- PDF-EXCLUDE-END -->
  
 
-### Projects 
+## Projects 
 **Emergency Management Dashboard – Storm Resource Allocation** | May 2025 – Aug 2025 
 - Developed an interactive dashboard for the Pennsylvania Emergency Management Agency (EMA) to analyze storm events, damage severity, and resource needs. 
 - Implemented drill-down and drill-through functionality for county-level and storm-type analysis, improving stakeholder accessibility and situational awareness. 
@@ -32,11 +32,11 @@
 
 #### 📄 [Click to Read the Full Project Here (PDF)](downloads/DAT%20515%20Final%20Project.pdf)
 
-### Certifications 
+## Certifications 
 - Certificate in SQL Competency – LearnSQL.com | May 2025 
 - Power BI Reports and Dashboards – AICPA | Apr 2025
 
-### Education
+## Education
 **Master of Science - Data Analytics** | Southern New Hampshire University 2025-2026
 - 3.72 GPA
 - 3x Honor Roll 
@@ -48,14 +48,14 @@
 - Early graudate 
 
 
-### Technical Skills 
+## Technical Skills 
 
 **Languages/Tools**: SQL, Python, R, Excel, Power BI, Tableau, MATLAB
 
 **Soft Skills**: Communication, Critical Thinking, Stakeholder Collaboration, Problem-Solving 
 
 
-### Experience 
+## Experience 
 
 **Long-Term Substitute Teacher**
 
