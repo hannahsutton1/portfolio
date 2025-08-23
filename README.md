@@ -1,6 +1,9 @@
 # Hannah Sutton - Data Analyst 
 
-[⬇️ Download PDF](/downloads/resume.pdf)
+<!-- PDF-EXCLUDE-START -->
+[⬇️ Download this page as PDF](/downloads/readme.pdf)
+<!-- PDF-EXCLUDE-END -->
+ 
 
 ### Projects 
 **Emergency Management Dashboard – Storm Resource Allocation** | May 2025 – Aug 2025 
