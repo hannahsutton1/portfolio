@@ -24,14 +24,13 @@
 - Built interactive dashboards using Power BI with advanced data cleaning and regression analysis. 
 - Designed a structured analysis framework comparable to test case design, validation, and reporting on KPIs.
 
-📄 [Read the Full Project Here: (PDF)]()
+📄 [Read the Full Project Here (PDF)](downloads/DAT%20520%20Final%20Project.pdf)
  
 **Enterprise Data Management Plan – Third Star Financial** | Mar 2025 – Jun 2025 
 - Developed logical and conceptual data models to improve governance and data quality. 
 - Delivered roadmap supporting requirements gathering, cross-team collaboration, and documentation standards.
 
-📄 [Read the Full Project Here: (PDF)]()
-
+📄 [Read the Full Project Here (PDF)](downloads/DAT%20515%20Final%20Project.pdf)
 
 ### Certifications 
 - Certificate in SQL Competency – LearnSQL.com | May 2025 
