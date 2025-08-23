@@ -11,32 +11,27 @@
 - Implemented drill-down and drill-through functionality for county-level and storm-type analysis, improving stakeholder accessibility and situational awareness. 
 - Delivered recommendations on monetary reserves and allocation of stand-by emergency resources based on year-over-year financial and storm damage trends.
 
-Project Link: 
-
+📊 [See the Interactive Dashboard Here](https://public.tableau.com/views/StormDashboard_17559311714590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <!-- PDF-EXCLUDE-START -->
-Tableau Dashboard:
+#### Tableau Dashboard:
 
-<img width="500" height="500" alt="Dashboard 1 (3)" src="https://github.com/user-attachments/assets/cd5e6903-1403-4352-883f-f467a3a61fcb" />
-
-
-Drill-down Feature:
-
-<img width="500" height="500" alt="Dashboard 1 (4)" src="https://github.com/user-attachments/assets/8dbaf25c-9778-4466-9446-c1dffe552c9e" />
+[![Dashboard Preview](https://public.tableau.com/static/images/St/StormDashboard_17559311714590/Dashboard1/1.png)](https://public.tableau.com/views/StormDashboard_17559311714590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <!-- PDF-EXCLUDE-END -->
 
 
 **Power BI Decision Model – MLB Wins Analysis** | Mar 2025 – Jun 2025 
 - Built interactive dashboards using Power BI with advanced data cleaning and regression analysis. 
-- Designed a structured analysis framework comparable to test case design, validation, and reporting on KPIs. 
+- Designed a structured analysis framework comparable to test case design, validation, and reporting on KPIs.
 
-Project Link: 
+📄 [Read the Full Project Here: (PDF)]()
  
 **Enterprise Data Management Plan – Third Star Financial** | Mar 2025 – Jun 2025 
 - Developed logical and conceptual data models to improve governance and data quality. 
 - Delivered roadmap supporting requirements gathering, cross-team collaboration, and documentation standards.
 
-Project Link:
+📄 [Read the Full Project Here: (PDF)]()
+
 
 ### Certifications 
 - Certificate in SQL Competency – LearnSQL.com | May 2025 
