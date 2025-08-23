@@ -39,6 +39,7 @@
 
 #### 📄 [Click Here to Read the Full Project (PDF)](downloads/DAT%20520%20Final%20Project.pdf)
 
+
  
 **Enterprise Data Management Plan – Third Star Financial** | Mar 2025 – Jun 2025 
 
@@ -52,11 +53,13 @@
 #### 📄 [Click Here to Read the Full Project (PDF)](downloads/DAT%20515%20Final%20Project.pdf)
 
 
+
 ## Certifications 
 - Certificate in SQL Competency – LearnSQL.com | May 2025
 
   
 - Power BI Reports and Dashboards – AICPA | Apr 2025
+
 
 ## Education
 **Master of Science - Data Analytics** | Southern New Hampshire University 2025-2026
