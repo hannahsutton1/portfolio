@@ -10,7 +10,10 @@
 - Developed an interactive dashboard for the Pennsylvania Emergency Management Agency (EMA) to analyze storm events, damage severity, and resource needs. 
 - Implemented drill-down and drill-through functionality for county-level and storm-type analysis, improving stakeholder accessibility and situational awareness. 
 - Delivered recommendations on monetary reserves and allocation of stand-by emergency resources based on year-over-year financial and storm damage trends. 
-
+<!-- PDF-EXCLUDE-START -->
+Tableau Dashboard: <img width="1526" height="785" alt="Dashboard 1 (3)" src="https://github.com/user-attachments/assets/cd5e6903-1403-4352-883f-f467a3a61fcb" />
+Drill-down Feature: <img width="1526" height="785" alt="Dashboard 1 (4)" src="https://github.com/user-attachments/assets/8dbaf25c-9778-4466-9446-c1dffe552c9e" />
+<!-- PDF-EXCLUDE-END -->
 
 **Power BI Decision Model – MLB Wins Analysis** | Mar 2025 – Jun 2025 
 - Built interactive dashboards using Power BI with advanced data cleaning and regression analysis. 
