@@ -6,7 +6,7 @@
  
 
 ## Projects 
-#### Emergency Management Dashboard – Storm Resource Allocation | May 2025 – Aug 2025 
+#### Emergency Management Dashboard – Storm Resource Allocation 
 
 
 - Developed an interactive dashboard for the Pennsylvania Emergency Management Agency (EMA) to analyze storm events, damage severity, and resource needs.
@@ -28,7 +28,7 @@
 <!-- PDF-EXCLUDE-END -->
 
 
-#### Power BI Decision Model – MLB Wins Analysis | Mar 2025 – Jun 2025 
+#### Power BI Decision Model – MLB Wins Analysis 
 
 
 - Built interactive dashboards using Power BI with advanced data cleaning and regression analysis.
@@ -40,7 +40,7 @@
 **📄 [Click Here to Read the Full Project (PDF)](downloads/DAT%20520%20Final%20Project.pdf)**
 
 
-#### Enterprise Data Management Plan – Third Star Financial | Mar 2025 – Jun 2025 
+#### Enterprise Data Management Plan – Third Star Financial 
 
 
 - Developed logical and conceptual data models to improve governance and data quality.
@@ -53,14 +53,17 @@
 
 
 ## Certifications 
-- Certificate in SQL Competency – LearnSQL.com | May 2025
+- Certificate in SQL Competency – LearnSQL.com (May 2025)
 
   
-- Power BI Reports and Dashboards – AICPA | Apr 2025
+- Power BI Reports and Dashboards – AICPA (Apr 2025)
 
 
 ## Education
-**Master of Science - Data Analytics** | Southern New Hampshire University 2025-2026
+**Master of Science - Data Analytics** 
+
+
+Southern New Hampshire University 2025-2026
 
 
 - 3.72 GPA
@@ -75,7 +78,10 @@
 - Active member of CodingUnited club
 
 
-**Bachelor of Arts - Mathematics** | Southern New Hampshire University 2021-2024
+**Bachelor of Arts - Mathematics** 
+
+
+Southern New Hampshire University 2021-2024
 
 
 - 1x Honor Roll
@@ -96,7 +102,7 @@
 
 **Long-Term Substitute Teacher**
 
-Laurel Highlands School District – Uniontown, PA | Sep 2024 – Jun 2025 
+Laurel Highlands School District – Uniontown, PA (Sep 2024 – Jun 2025)
 
 
 - Collected, tracked, and interpreted quantitative and qualitative performance data.
@@ -107,7 +113,7 @@ Laurel Highlands School District – Uniontown, PA | Sep 2024 – Jun 2025
 
 **Manager**
 
-Bootleggers’ Bar & Grille – Uniontown, PA | Sep 2023 – Sep 2024 
+Bootleggers’ Bar & Grille – Uniontown, PA (Sep 2023 – Sep 2024)
 
 
 - Monitored KPIs and business metrics (sales, labor, inventory), creating actionable reports to improve operational efficiency. 
