@@ -11,7 +11,9 @@
 - Implemented drill-down and drill-through functionality for county-level and storm-type analysis, improving stakeholder accessibility and situational awareness. 
 - Delivered recommendations on monetary reserves and allocation of stand-by emergency resources based on year-over-year financial and storm damage trends.
 
+
 #### 📊 [Click Here for the Interactive Dashboard](https://public.tableau.com/views/StormDashboard_17559311714590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 <!-- PDF-EXCLUDE-START -->
 #### Tableau Dashboard:
@@ -24,13 +26,17 @@
 - Built interactive dashboards using Power BI with advanced data cleaning and regression analysis. 
 - Designed a structured analysis framework comparable to test case design, validation, and reporting on KPIs.
 
+
 #### 📄 [Click Here to Read the Full Project (PDF)](downloads/DAT%20520%20Final%20Project.pdf)
+
  
 **Enterprise Data Management Plan – Third Star Financial** | Mar 2025 – Jun 2025 
 - Developed logical and conceptual data models to improve governance and data quality. 
 - Delivered roadmap supporting requirements gathering, cross-team collaboration, and documentation standards.
 
+
 #### 📄 [Click Here to Read the Full Project (PDF)](downloads/DAT%20515%20Final%20Project.pdf)
+
 
 ## Certifications 
 - Certificate in SQL Competency – LearnSQL.com | May 2025 
