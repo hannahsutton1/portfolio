@@ -31,10 +31,15 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-latex-recommended texlive-xetex texlive-fonts-recommended
  
+      - name: Prepare source without web-only blocks
+        run: |
+          awk 'BEGIN{drop=0} /<!-- PDF-EXCLUDE-START -->/{drop=1; next} /<!-- PDF-EXCLUDE-END -->/{drop=0; next} !drop{print}' "$SOURCE_MD" > /tmp/source.md
+          echo "Prepared /tmp/source.md"
+ 
       - name: Convert Markdown → PDF
         run: |
           mkdir -p "$(dirname "$OUTPUT_PDF")"
-          pandoc "$SOURCE_MD" -o "$OUTPUT_PDF" --pdf-engine=xelatex
+          pandoc /tmp/source.md -o "$OUTPUT_PDF" --pdf-engine=xelatex
  
       - name: Commit PDF back to repo
         uses: stefanzweifel/git-auto-commit-action@v5
