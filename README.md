@@ -1,5 +1,6 @@
 # Hannah Sutton - Data Analyst 
 
+[⬇️ Download PDF](/downloads/resume.pdf)
 ### Projects 
 **Emergency Management Dashboard – Storm Resource Allocation** | May 2025 – Aug 2025 
 - Developed an interactive dashboard for the Pennsylvania Emergency Management Agency (EMA) to analyze storm events, damage severity, and resource needs. 
