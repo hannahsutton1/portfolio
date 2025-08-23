@@ -16,6 +16,10 @@
 - Developed logical and conceptual data models to improve governance and data quality. 
 - Delivered roadmap supporting requirements gathering, cross-team collaboration, and documentation standards.
 
+### Certifications 
+- Certificate in SQL Competency – LearnSQL.com | May 2025 
+- Power BI Reports and Dashboards – AICPA | Apr 2025
+
 ### Education
 **Master of Science - Data Analytics** | Southern New Hampshire University 2025-2026
 - 3.72 GPA
@@ -34,9 +38,6 @@
 
 **Soft Skills**: Communication, Critical Thinking, Stakeholder Collaboration, Problem-Solving 
 
-### Certifications 
-- Certificate in SQL Competency – LearnSQL.com | May 2025 
-- Power BI Reports and Dashboards – AICPA | Apr 2025
 
 ### Experience 
 
