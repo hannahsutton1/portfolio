@@ -1,0 +1,40 @@
+name: Build PDF from README
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "README.md"
+      - ".github/workflows/md-to-pdf.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      SOURCE_MD: README.md
+      OUTPUT_PDF: downloads/readme.pdf
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Install Pandoc + XeLaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-recommended texlive-xetex texlive-fonts-recommended
+
+      - name: Convert Markdown → PDF
+        run: |
+          mkdir -p "$(dirname "$OUTPUT_PDF")"
+          pandoc "$SOURCE_MD" -o "$OUTPUT_PDF" --pdf-engine=xelatex
+
+      - name: Commit PDF back to repo
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "build(pdf): README → readme.pdf"
+          branch: main
+          file_pattern: ${{ env.OUTPUT_PDF }}
