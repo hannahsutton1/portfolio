@@ -6,6 +6,10 @@
  
 
 ## Projects 
+#### 2024 Uber Data - Cleaning, Analyzing, and Modeling in Python's Numpy and Pandas Libraries
+
+
+
 #### Emergency Management Dashboard – Storm Resource Allocation 
 
 
