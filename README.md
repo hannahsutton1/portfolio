@@ -17,17 +17,17 @@
 
 ## Projects 
 
-#### Uber Ride Data Project - Cleaning, Analyzing, and Modeling in Python's Numpy, MatPlotLib, and Pandas Libraries 
+#### Uber Ride Data Analysis & Modeling - Python, Pandas, NumPy, scikit-learn, Matplotlib
 
-**📄 [Click Here for the Full Project (GitHub)](https://github.com/hannahsutton1/uber.data)**
+**🧮 [Click Here for the full project (GitHub)](https://github.com/hannahsutton1/uber.data)**
 
-- Cleaned and prepared large-scale Uber ride booking dataset by handling missing values, removing duplicates, and validating data integrity in pandas and numpy libraries
+- Cleaned and validated Uber ride dataset, handled missing values, removed duplicates, and verified data integrity
 
-- Conducted exploratory data analysis and developed visualizations to uncover trends in ride demand, pricing, and seasonal patterns
+- Conducted exploratory data analysis and correlation testing, confirming no significant linear relationships between numeric variables
 
-- Applied machine learning techniques for predictive modeling (regression, classification, clustering) to forecast ride demand and analyze booking value drivers
+- Built and evaluated a logistic regression model to test whether vehicle type (Sedan vs. others) predicts high-value bookings, using stratified train/test splits and ROC curve analysis
 
-- Documented process and results in GitHub with reproducible scripts, visualizations, and insights for portfolio presentation
+- Documented end-to-end workflow (EDA → feature engineering → modeling → evaluation) with reproducible Python scripts and visualizations for portfolio presentation
   
 
 #### Emergency Management Dashboard – Storm Resource Allocation 
