@@ -1,7 +1,9 @@
-# Hannah Sutton - Data Analyst 
+<div align="center"> 
+
+# Hannah Sutton - Data Analyst
 
 <!-- PDF-ONLY-START -->
- Uniontown, PA | Phone: 724.963.5826 | Email: hsutton518@outlook.com | LinkedIn: www.linkedin.com/in/hannah-1-sutton | Github: https://hannahsutton1.github.io/portfolio/ 
+ Phone: 724.963.5826 | Email: hsutton518@outlook.com | LinkedIn: www.linkedin.com/in/hannah-1-sutton | Github: https://hannahsutton1.github.io/portfolio/ 
 <!-- PDF-ONLY-END -->
 
 
@@ -13,6 +15,8 @@
 <!-- PDF-EXCLUDE-END -->
 
 ## Projects 
+</div>
+
 #### Uber Ride Data Project - Cleaning, Analyzing, and Modeling in Python's Numpy and Pandas Libraries 
 
 **📄 [Click Here for the Full Project (GitHub)](https://github.com/hannahsutton1/uber.data)**
@@ -41,13 +45,15 @@
 
 
 
-
+<div align="center"> 
+ 
 <!-- PDF-EXCLUDE-START -->
 **Tableau Dashboard:**
 
 [![Dashboard Preview](https://public.tableau.com/static/images/St/StormDashboard_17559311714590/Dashboard1/1.png)](https://public.tableau.com/views/StormDashboard_17559311714590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <!-- PDF-EXCLUDE-END -->
 
+</div>
 
 #### Power BI Decision Model – MLB Wins Analysis 
 
@@ -74,15 +80,22 @@
 
 
 
-
+<div align="center"> 
+ 
 ## Certifications 
+
+</div>
+ 
 - Certificate in SQL Competency – LearnSQL.com (May 2025)
 
   
 - Power BI Reports and Dashboards – AICPA (Apr 2025)
 
-
+<div align="center"> 
+ 
 ## Education
+</div> 
+
 **Master of Science - Data Analytics** 
 
 
@@ -112,16 +125,20 @@ Southern New Hampshire University 2021-2024
 
 - Early graudate 
 
-
+<div align="center"> 
+ 
 ## Skills 
+</div>
 
 **Languages/Tools**: SQL, Python, R, Excel, Power BI, Tableau, MATLAB
 
 
 **Soft Skills**: Communication, Critical Thinking, Stakeholder Collaboration, Problem-Solving 
 
-
+<div align="center"> 
+ 
 ## Experience 
+</div>
 
 **Long-Term Substitute Teacher**
 
