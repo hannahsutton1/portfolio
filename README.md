@@ -7,9 +7,10 @@
 
 <!-- PDF-EXCLUDE-START -->
 #### [⬇️ Download this page as PDF](/downloads/readme.pdf)
-<!-- PDF-EXCLUDE-END -->
+
  
 ### Quick Jump:  [Projects](#projects) · [Certifications](#certifications) · [Education](#education) · [Technical Skills](#skills) · [Experience](#experience)
+<!-- PDF-EXCLUDE-END -->
 
 ## Projects 
 #### Uber Ride Data Project - Cleaning, Analyzing, and Modeling in Python's Numpy and Pandas Libraries 
