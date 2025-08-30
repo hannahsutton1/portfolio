@@ -1,5 +1,11 @@
 # Hannah Sutton - Data Analyst 
 
+<!-- PDF-ONLY-START -->
+ Uniontown, PA | Phone: 724.963.5826 | Email: hsutton518@outlook.com | LinkedIn: www.linkedin.com/in/hannah-1-sutton | Github: https://hannahsutton1.github.io/portfolio/ 
+| --- | --- | --- | --- | --- |
+<!-- PDF-ONLY-END -->
+
+
 <!-- PDF-EXCLUDE-START -->
 #### [⬇️ Download this page as PDF](/downloads/readme.pdf)
 <!-- PDF-EXCLUDE-END -->
@@ -8,6 +14,7 @@
 ## Projects 
 #### Uber Ride Data Project - Cleaning, Analyzing, and Modeling in Python's Numpy and Pandas Libraries 
 
+**📄 [Click Here for the Full Project (GitHub)](https://github.com/hannahsutton1/uber.data)**
 
 - Cleaned and prepared large-scale Uber ride booking dataset by handling missing values, removing duplicates, and validating data integrity in pandas and numpy libraries
 
@@ -20,6 +27,8 @@
 
 #### Emergency Management Dashboard – Storm Resource Allocation 
 
+**📊 [Click Here for the Interactive Dashboard (Tableau Public](https://public.tableau.com/views/StormDashboard_17559311714590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 
 - Developed an interactive dashboard for the Pennsylvania Emergency Management Agency (EMA) to analyze storm events, damage severity, and resource needs.
 
@@ -30,7 +39,6 @@
 - Delivered recommendations on monetary reserves and allocation of stand-by emergency resources based on year-over-year financial and storm damage trends.
 
 
-**📊 [Click Here for the Interactive Dashboard](https://public.tableau.com/views/StormDashboard_17559311714590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 
 <!-- PDF-EXCLUDE-START -->
@@ -42,6 +50,7 @@
 
 #### Power BI Decision Model – MLB Wins Analysis 
 
+**📄 [Click Here to Read the Full Project (PDF)](downloads/DAT%20520%20Final%20Project.pdf)**
 
 - Built interactive dashboards using Power BI with advanced data cleaning and regression analysis.
 
@@ -49,11 +58,12 @@
 - Designed a structured analysis framework comparable to test case design, validation, and reporting on KPIs.
 
 
-**📄 [Click Here to Read the Full Project (PDF)](downloads/DAT%20520%20Final%20Project.pdf)**
+
 
 
 #### Enterprise Data Management Plan – Third Star Financial 
 
+**📄 [Click Here to Read the Full Project (PDF)](downloads/DAT%20515%20Final%20Project.pdf)**
 
 - Developed logical and conceptual data models to improve governance and data quality.
 
@@ -61,7 +71,7 @@
 - Delivered roadmap supporting requirements gathering, cross-team collaboration, and documentation standards.
 
 
-**📄 [Click Here to Read the Full Project (PDF)](downloads/DAT%20515%20Final%20Project.pdf)**
+
 
 
 ## Certifications 
