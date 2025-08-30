@@ -9,6 +9,7 @@
 #### [⬇️ Download this page as PDF](/downloads/readme.pdf)
 <!-- PDF-EXCLUDE-END -->
  
+### Quick Jump:  [Projects](#projects) · [Certifications](#certifications) · [Education](#education) · [Technical Skills](#skills) · [Experience](#experience)
 
 ## Projects 
 #### Uber Ride Data Project - Cleaning, Analyzing, and Modeling in Python's Numpy and Pandas Libraries 
@@ -26,7 +27,7 @@
 
 #### Emergency Management Dashboard – Storm Resource Allocation 
 
-**📊 [Click Here for the Interactive Dashboard (Tableau Public](https://public.tableau.com/views/StormDashboard_17559311714590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**📊 [Click Here for the Interactive Dashboard (Tableau Public)](https://public.tableau.com/views/StormDashboard_17559311714590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 
 - Developed an interactive dashboard for the Pennsylvania Emergency Management Agency (EMA) to analyze storm events, damage severity, and resource needs.
@@ -111,7 +112,7 @@ Southern New Hampshire University 2021-2024
 - Early graudate 
 
 
-## Technical Skills 
+## Skills 
 
 **Languages/Tools**: SQL, Python, R, Excel, Power BI, Tableau, MATLAB
 
