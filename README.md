@@ -2,7 +2,6 @@
 
 <!-- PDF-ONLY-START -->
  Uniontown, PA | Phone: 724.963.5826 | Email: hsutton518@outlook.com | LinkedIn: www.linkedin.com/in/hannah-1-sutton | Github: https://hannahsutton1.github.io/portfolio/ 
-| --- | --- | --- | --- | --- |
 <!-- PDF-ONLY-END -->
 
 
