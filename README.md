@@ -2,7 +2,9 @@
 
 
 <!-- PDF-ONLY-START -->
+
  Phone: 724.963.5826 | Email: hsutton518@outlook.com | LinkedIn: www.linkedin.com/in/hannah-1-sutton | Github: https://hannahsutton1.github.io/portfolio/ 
+
 <!-- PDF-ONLY-END -->
 
 
@@ -15,7 +17,7 @@
 
 ## Projects 
 
-#### Uber Ride Data Project - Cleaning, Analyzing, and Modeling in Python's Numpy and Pandas Libraries 
+#### Uber Ride Data Project - Cleaning, Analyzing, and Modeling in Python's Numpy, MatPlotLib, and Pandas Libraries 
 
 **📄 [Click Here for the Full Project (GitHub)](https://github.com/hannahsutton1/uber.data)**
 
