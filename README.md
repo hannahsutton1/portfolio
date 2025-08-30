@@ -6,9 +6,17 @@
  
 
 ## Projects 
-#### 2024 Uber Data - Cleaning, Analyzing, and Modeling in Python's Numpy and Pandas Libraries
+#### Uber Ride Data Project - Cleaning, Analyzing, and Modeling in Python's Numpy and Pandas Libraries 
 
 
+- Cleaned and prepared large-scale Uber ride booking dataset by handling missing values, removing duplicates, and validating data integrity in pandas and numpy libraries
+
+- Conducted exploratory data analysis and developed visualizations to uncover trends in ride demand, pricing, and seasonal patterns
+
+- Applied machine learning techniques for predictive modeling (regression, classification, clustering) to forecast ride demand and analyze booking value drivers
+
+- Documented process and results in GitHub with reproducible scripts, visualizations, and insights for portfolio presentation
+  
 
 #### Emergency Management Dashboard – Storm Resource Allocation 
 
