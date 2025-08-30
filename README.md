@@ -1,6 +1,8 @@
 <div align="center"> 
 
+
 # Hannah Sutton - Data Analyst
+
 
 <!-- PDF-ONLY-START -->
  Phone: 724.963.5826 | Email: hsutton518@outlook.com | LinkedIn: www.linkedin.com/in/hannah-1-sutton | Github: https://hannahsutton1.github.io/portfolio/ 
@@ -15,6 +17,8 @@
 <!-- PDF-EXCLUDE-END -->
 
 ## Projects 
+
+
 </div>
 
 #### Uber Ride Data Project - Cleaning, Analyzing, and Modeling in Python's Numpy and Pandas Libraries 
