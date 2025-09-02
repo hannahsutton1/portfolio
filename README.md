@@ -124,6 +124,18 @@ Southern New Hampshire University 2021-2024
  
 ## Experience 
 
+
+**IT Department Intern** 
+
+Laurel Highlands School District - Uniontown, PA (Sep 2024- June 2025)
+
+- Collaborated with network and tech administrators to troubleshoot IT issues effectively.  
+
+- Assisted in data migration and system upgrades, enhancing overall operational efficiency.  
+
+- Supported the setup and deployment of new computers, improving user experience across the organization. 
+
+ 
 **Long-Term Substitute Teacher**
 
 Laurel Highlands School District – Uniontown, PA (Sep 2024 – Jun 2025)
@@ -135,12 +147,3 @@ Laurel Highlands School District – Uniontown, PA (Sep 2024 – Jun 2025)
 - Collaborated with cross-functional teams (teachers, parents, administrators) to align requirements and outcomes.
 
 
-**Manager**
-
-Bootleggers’ Bar & Grille – Uniontown, PA (Sep 2023 – Sep 2024)
-
-
-- Monitored KPIs and business metrics (sales, labor, inventory), creating actionable reports to improve operational efficiency. 
-
-
-- Directed teams in high-pressure environments, ensuring compliance with standards and quickly resolving issues—skills transferrable to defect resolution and change requests. 
