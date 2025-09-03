@@ -1,4 +1,5 @@
 # Hannah Sutton
+## ":     724.963.5826 
 
 <!-- PDF-EXCLUDE-START -->
 
@@ -23,7 +24,7 @@
 - Documented end-to-end workflow (EDA → feature engineering → modeling → evaluation) with reproducible Python scripts and visualizations for portfolio presentation
   
 
-#### Emergency Management Dashboard – Storm Resource Allocation 
+#### PA Emergency Management Dashboard Project – Storm Resource Allocation Dashboard and Analysis in Python 
 
 **📊 [Click Here for the Full Project (GitHub)](https://github.com/hannahsutton1/EMA_stormproject)**
 
@@ -46,7 +47,6 @@
 
   
 - Designed a structured analysis framework comparable to test case design, validation, and reporting on KPIs.
-
 
 
 
