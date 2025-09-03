@@ -1,16 +1,6 @@
-<div align="center">
-
 # Hannah Sutton
 
 #### 724.963.5826 | hsutton518@outlook.com | www.linkedin.com/in/hannah-1-sutton
-
-
-
-
-
-</div>
-
-<div align="center">
   
 <!-- PDF-EXCLUDE-START -->
 
@@ -19,8 +9,6 @@
 #### [⬇️ Download this page as PDF](/downloads/readme.pdf)
 
 <!-- PDF-EXCLUDE-END -->
-
-</div>
 
 
 ## Projects 
