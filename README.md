@@ -1,11 +1,11 @@
-# Hannah Sutton - Data Analyst
-
+# Hannah Sutton
 
 <!-- PDF-EXCLUDE-START -->
+
+[Projects](#projects) · [Certifications](#certifications) · [Education](#education) · [Technical Skills](#skills) · [Experience](#experience)
+
 #### [⬇️ Download this page as PDF](/downloads/readme.pdf)
 
- 
-### Quick Jump:  [Projects](#projects) · [Certifications](#certifications) · [Education](#education) · [Technical Skills](#skills) · [Experience](#experience)
 <!-- PDF-EXCLUDE-END -->
 
 ## Projects 
@@ -146,4 +146,8 @@ Laurel Highlands School District – Uniontown, PA (Sep 2024 – Jun 2025)
 
 - Collaborated with cross-functional teams (teachers, parents, administrators) to align requirements and outcomes.
 
+<!-- PDF-EXCLUDE-START -->
 
+[☝️Back To Top](#hannah-sutton)
+
+<!-- PDF-EXCLUDE-END -->
