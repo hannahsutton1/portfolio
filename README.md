@@ -25,26 +25,16 @@
 
 #### Emergency Management Dashboard – Storm Resource Allocation 
 
-**📊 [Click Here for the Interactive Dashboard (Tableau Public)](https://public.tableau.com/views/StormDashboard_17559311714590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**📊 [Click Here for the Full Project (GitHub)](https://github.com/hannahsutton1/EMA_stormproject)**
 
 
-- Developed an interactive dashboard for the Pennsylvania Emergency Management Agency (EMA) to analyze storm events, damage severity, and resource needs.
-
+-  Built a Tableau dashboard for Pennsylvania EMA to visualize storm patterns and resource allocation
   
-- Implemented drill-down and drill-through functionality for county-level and storm-type analysis, improving stakeholder accessibility and situational awareness.
-
+-  Applied Python for data cleaning and analysis to support emergency planning decisions
   
-- Delivered recommendations on monetary reserves and allocation of stand-by emergency resources based on year-over-year financial and storm damage trends.
-
-
-
-
- 
-<!-- PDF-EXCLUDE-START -->
-**Tableau Dashboard:**
-
-[![Dashboard Preview](https://public.tableau.com/static/images/St/StormDashboard_17559311714590/Dashboard1/1.png)](https://public.tableau.com/views/StormDashboard_17559311714590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-<!-- PDF-EXCLUDE-END -->
+-  Delivered insights tailored to executives, field teams, and the public via dashboard, presentation, and pamphlet
+  
+-  Focused on clear, accessible visual storytelling to enhance preparedness and budget strategy
 
 
 
