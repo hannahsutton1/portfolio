@@ -1,6 +1,6 @@
 # Hannah Sutton
 
-#### 724.963.5826 | hsutton518@outlook.com | <blue> www.linkedin.com/in/hannah-1-sutton </blue>
+#### 724.963.5826 | hsutton518@outlook.com | www.linkedin.com/in/hannah-1-sutton
 
 <!-- PDF-EXCLUDE-START -->
 
