@@ -55,7 +55,7 @@
 
 #### Enterprise Data Management Plan – Third Star Financial 
 
-**📄 [Click Here to Read the Full Project (PDF)](downloads/DAT%20515%20Final%20Project.pdf)**
+**[Click Here to Read the Full Project (PDF)](downloads/DAT%20515%20Final%20Project.pdf)**
 
 - Developed logical and conceptual data models to improve governance and data quality.
 
