@@ -15,7 +15,7 @@
 
 #### Uber Ride Data Analysis & Modeling - Python, Pandas, NumPy, scikit-learn, Matplotlib
 
-**🧮 [Click Here for the full project (GitHub)](https://github.com/hannahsutton1/uber.data)**
+**[Click Here for the full project (GitHub)](https://github.com/hannahsutton1/uber.data)**
 
 - Cleaned and validated Uber ride dataset, handled missing values, removed duplicates, and verified data integrity
 
@@ -28,7 +28,7 @@
 
 #### PA Emergency Management Dashboard Project – Storm Resource Allocation Dashboard and Analysis in Python 
 
-**📊 [Click Here for the Full Project (GitHub)](https://github.com/hannahsutton1/EMA_stormproject)**
+**[Click Here for the Full Project (GitHub)](https://github.com/hannahsutton1/EMA_stormproject)**
 
 
 -  Built a Tableau dashboard for Pennsylvania EMA to visualize storm patterns and resource allocation
@@ -43,7 +43,7 @@
 
 #### Power BI Decision Model – MLB Wins Analysis 
 
-**📄 [Click Here to Read the Full Project (PDF)](downloads/DAT%20520%20Final%20Project.pdf)**
+**[Click Here to Read the Full Project (PDF)](downloads/DAT%20520%20Final%20Project.pdf)**
 
 - Built interactive dashboards using Power BI with advanced data cleaning and regression analysis.
 
