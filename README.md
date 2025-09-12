@@ -15,52 +15,76 @@
 
 #### Uber Ride Data Analysis & Modeling - Python, Pandas, NumPy, scikit-learn, Matplotlib
 
-**[Click Here for the full project (GitHub)](https://github.com/hannahsutton1/uber.data)**
+**[View the full project on GitHub](https://github.com/hannahsutton1/uber.data)**
 
-- Cleaned and validated Uber ride dataset, handled missing values, removed duplicates, and verified data integrity
 
-- Conducted exploratory data analysis and correlation testing, confirming no significant linear relationships between numeric variables
+Analyzed Uber ride data to identify booking trends and inform vehicle strategy:
 
-- Built and evaluated a logistic regression model to test whether vehicle type (Sedan vs. others) predicts high-value bookings, using stratified train/test splits and ROC curve analysis
 
-- Documented end-to-end workflow (EDA → feature engineering → modeling → evaluation) with reproducible Python scripts and visualizations for portfolio presentation
+- Ensured data integrity through rigorous cleaning, validation, and de-duplication
+
+
+- Conducted exploratory analysis and statistical testing to assess variable relationship
+
   
+- Built a logistic regression model to evaluate the impact of vehicle type on high-value bookings, using stratified sampling and ROC curve diagnostics
+
+  
+- Delivered a reproducible analytics pipeline with clear documentation and visual outputs for stakeholder review
+
 
 #### PA Emergency Management Dashboard Project – Storm Resource Allocation Dashboard and Analysis in Python 
 
-**[Click Here for the Full Project (GitHub)](https://github.com/hannahsutton1/EMA_stormproject)**
+**[View the full project on GitHub](https://github.com/hannahsutton1/EMA_stormproject)**
 
 
--  Built a Tableau dashboard for Pennsylvania EMA to visualize storm patterns and resource allocation
-  
--  Applied Python for data cleaning and analysis to support emergency planning decisions
-  
--  Delivered insights tailored to executives, field teams, and the public via dashboard, presentation, and pamphlet
-  
--  Focused on clear, accessible visual storytelling to enhance preparedness and budget strategy
+Developed a data-driven dashboard for Pennsylvania EMA to support emergency response planning:
 
+
+- Designed and deployed a Tableau dashboard to visualize storm activity and resource distribution
+
+  
+- Applied Python-based data cleaning and analysis to enhance operational readiness
+
+  
+- Presented tailored insights to executives, field teams, and public audiences through multi-format deliverables
+
+  
+- Prioritized clarity and accessibility to support strategic budgeting and preparedness initiatives
 
 
 #### Power BI Decision Model – MLB Wins Analysis 
 
-**[Click Here to Read the Full Project (PDF)](downloads/DAT%20520%20Final%20Project.pdf)**
+**[View the full project here (PDF)](downloads/DAT%20520%20Final%20Project.pdf)**
 
-- Built interactive dashboards using Power BI with advanced data cleaning and regression analysis.
+
+Built a performance analytics model to evaluate team success factors in Major League Baseball:
+
+
+- Developed interactive Power BI dashboards with advanced data transformation and regression modeling
 
   
-- Designed a structured analysis framework comparable to test case design, validation, and reporting on KPIs.
+- Structured the analysis to align with business testing frameworks, including KPI validation and scenario reporting
 
-
+  
+- Enabled data-driven decision-making through intuitive visualizations and executive-ready summaries
 
 
 #### Enterprise Data Management Plan – Third Star Financial 
 
-**[Click Here to Read the Full Project (PDF)](downloads/DAT%20515%20Final%20Project.pdf)**
+**[View the full project here (PDF)](downloads/DAT%20515%20Final%20Project.pdf)**
 
-- Developed logical and conceptual data models to improve governance and data quality.
+
+Created a comprehensive data governance plan to improve enterprise data quality and collaboration:
+
+
+- Designed logical and conceptual data models to support scalable architecture and compliance
 
   
-- Delivered roadmap supporting requirements gathering, cross-team collaboration, and documentation standards.
+- Delivered a strategic roadmap for cross-functional alignment, documentation standards, and stakeholder engagement
+
+  
+- Positioned data as a core asset by aligning technical structure with business requirements
 
  
 ## Certifications 
